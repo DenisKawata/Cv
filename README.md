@@ -6,4 +6,4 @@ Tecnologias:
 - CSS
 - JavaScript
 
-https://deniskawata.github.io/Mini-portfolio/
+https://deniskawata.github.io/Cv/
