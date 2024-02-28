@@ -1,4 +1,4 @@
-# Mini-portfolio
+# Mini-porfolio
 Proyecto final - Mi primer Cv creado para Argentina programa 4.0
 
 Tecnologias:
